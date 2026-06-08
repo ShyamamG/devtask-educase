@@ -1,0 +1,22 @@
+.welcome-page {
+  position: relative;
+  height: 100%;
+}
+
+.welcome-content {
+  position: absolute;
+  bottom: 40px;
+  left: 20px;
+  right: 20px;
+}
+
+.welcome-content h1 {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.welcome-content p {
+  color: #6c757d;
+  margin-bottom: 25px;
+  line-height: 1.5;
+}
